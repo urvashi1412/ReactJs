@@ -1,0 +1,11 @@
+.custom-button {
+    background-color: #FF6F61; /* Bright Coral */ padding: 10px 20px;
+    font-size: 16px; color: white;
+border: none;
+border-radius: 5px; cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+background-color: #E35B50;
+}
